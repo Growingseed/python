@@ -34,6 +34,7 @@ Engage with other learners, ask questions, and share your progress in our Linked
 
 ### **📁 Repository Structure**
 
+```markdown
 python-mastery/
 ├── assignments/
 │   ├── assignment.py
